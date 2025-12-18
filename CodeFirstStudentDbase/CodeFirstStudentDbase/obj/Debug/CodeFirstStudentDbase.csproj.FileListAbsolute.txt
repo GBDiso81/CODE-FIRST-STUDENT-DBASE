@@ -1,0 +1,12 @@
+C:\Users\gbdis\source\repos\CodeFirstStudentDbase\CodeFirstStudentDbase\obj\Debug\CodeFirstStudentDbase.csproj.AssemblyReference.cache
+C:\Users\gbdis\source\repos\CodeFirstStudentDbase\CodeFirstStudentDbase\obj\Debug\CodeFirstStudentDbase.csproj.CoreCompileInputs.cache
+C:\Users\gbdis\source\repos\CodeFirstStudentDbase\CodeFirstStudentDbase\bin\Debug\CodeFirstStudentDbase.exe.config
+C:\Users\gbdis\source\repos\CodeFirstStudentDbase\CodeFirstStudentDbase\bin\Debug\CodeFirstStudentDbase.exe
+C:\Users\gbdis\source\repos\CodeFirstStudentDbase\CodeFirstStudentDbase\bin\Debug\CodeFirstStudentDbase.pdb
+C:\Users\gbdis\source\repos\CodeFirstStudentDbase\CodeFirstStudentDbase\bin\Debug\EntityFramework.dll
+C:\Users\gbdis\source\repos\CodeFirstStudentDbase\CodeFirstStudentDbase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gbdis\source\repos\CodeFirstStudentDbase\CodeFirstStudentDbase\bin\Debug\EntityFramework.xml
+C:\Users\gbdis\source\repos\CodeFirstStudentDbase\CodeFirstStudentDbase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gbdis\source\repos\CodeFirstStudentDbase\CodeFirstStudentDbase\obj\Debug\CodeFirs.548E937E.Up2Date
+C:\Users\gbdis\source\repos\CodeFirstStudentDbase\CodeFirstStudentDbase\obj\Debug\CodeFirstStudentDbase.exe
+C:\Users\gbdis\source\repos\CodeFirstStudentDbase\CodeFirstStudentDbase\obj\Debug\CodeFirstStudentDbase.pdb

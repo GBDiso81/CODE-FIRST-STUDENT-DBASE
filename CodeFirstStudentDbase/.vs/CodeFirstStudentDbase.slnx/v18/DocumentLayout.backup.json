@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\codefirststudentdbase\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|solutionrelative:codefirststudentdbase\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\codefirststudentdbase\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|solutionrelative:codefirststudentdbase\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\codefirststudentdbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|solutionrelative:codefirststudentdbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\codefirststudentdbase\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|solutionrelative:codefirststudentdbase\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\codefirststudentdbase\\schooldbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|solutionrelative:codefirststudentdbase\\schooldbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\codefirststudentdbase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|solutionrelative:codefirststudentdbase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\codefirststudentdbase\\studentaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|solutionrelative:codefirststudentdbase\\studentaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|c:\\users\\gbdis\\source\\repos\\codefirststudentdbase\\codefirststudentdbase\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|solutionrelative:codefirststudentdbase\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\codefirststudentdbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923187AA-C777-4259-BC45-21D0E8BAAB7B}|CodeFirstStudentDbase\\CodeFirstStudentDbase.csproj|solutionrelative:codefirststudentdbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolDBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\SchoolDBInitializer.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentDbase\\SchoolDBInitializer.cs",
+              "ToolTip": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\SchoolDBInitializer.cs",
+              "RelativeToolTip": "CodeFirstStudentDbase\\SchoolDBInitializer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T00:03:05.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentAddress.cs",
+              "DocumentMoniker": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\StudentAddress.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentDbase\\StudentAddress.cs",
+              "ToolTip": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\StudentAddress.cs",
+              "RelativeToolTip": "CodeFirstStudentDbase\\StudentAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:56:39.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentDbase\\Student.cs",
+              "ToolTip": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\Student.cs",
+              "RelativeToolTip": "CodeFirstStudentDbase\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:50:01.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentDbase\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\SchoolContext.cs",
+              "RelativeToolTip": "CodeFirstStudentDbase\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:52:08.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentDbase\\Program.cs",
+              "ToolTip": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\Program.cs",
+              "RelativeToolTip": "CodeFirstStudentDbase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:47:39.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\Grade.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentDbase\\Grade.cs",
+              "ToolTip": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\Grade.cs",
+              "RelativeToolTip": "CodeFirstStudentDbase\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:50:54.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\Course.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentDbase\\Course.cs",
+              "ToolTip": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\Course.cs",
+              "RelativeToolTip": "CodeFirstStudentDbase\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:54:27.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentDbase\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\StudentConfiguration.cs",
+              "RelativeToolTip": "CodeFirstStudentDbase\\StudentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T00:11:57.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\Teacher.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentDbase\\Teacher.cs",
+              "ToolTip": "C:\\Users\\gbdis\\source\\repos\\CodeFirstStudentDbase\\CodeFirstStudentDbase\\Teacher.cs",
+              "RelativeToolTip": "CodeFirstStudentDbase\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:58:52.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
